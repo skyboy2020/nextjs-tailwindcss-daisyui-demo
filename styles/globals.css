@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 设置 背景 和 文字颜色 */
+/* @layer base {
+  body {
+    @apply bg-[#06202A] text-gray-300;
+  }
+} */
